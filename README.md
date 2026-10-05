@@ -2,10 +2,14 @@
   <img src="orbit.svg?v=2" alt="" width="100%">
 </p>
 
-<p align="center">
-  I'm Ollie, a Graduate Software Engineer, mostly drawn to space, robotics & autonomy.
-</p>
+I'm Ollie, a Graduate Software Engineer, mostly drawn to space, robotics & autonomy.
 
-<p align="center">
-  Eyes on the Horizon.
-</p>
+Eyes on the Horizon.
+
+### Technical Skills
+
+- **Languages:** Python, TypeScript, C++ (Learning)
+- **Web:** React, Three.js, FastAPI, REST
+- **ML:** PyTorch, Scikit-Learn, DEAP
+- **Robotics:** ROS 2, Gazebo, cFS
+- **Tools:** Docker, Figma
