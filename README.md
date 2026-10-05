@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  Eyes on the horizon.
+  Eyes on the Horizon.
 </p>
