@@ -8,7 +8,7 @@ I'm Ollie - a Graduate Software Engineer drawn to **space, robotics & autonomy**
 
 ### Technical Skills
 
-**Languages** — Python, TypeScript, C++, C  
+**Languages** — Python, TypeScript, C++ (Learning) 
 **Web** — React, Three.js, FastAPI, REST  
 **ML** — PyTorch, Scikit-Learn
 **Robotics** — ROS 2, Gazebo, cFS  
