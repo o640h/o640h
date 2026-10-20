@@ -6,7 +6,7 @@
 
 I'm Ollie - a Graduate Software Engineer drawn to **Space, Robotics & Autonomy**.
 
-urybia.space
+https://urybia.space
 
 ### Technical Skills
 
